@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá! Eu sou o Gustavo Lisboa
+# Opa, eu sou o Gustavo Lisboa
 
 ### Estudante de Ciência de Dados & Machine Learning
 
@@ -56,6 +56,17 @@
   
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavolg95&theme=tokyonight" alt="Profile Summary Card"/>
 
+</div>
+
+---
+
+## Contribuições
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gustavolg95/Gustavolg95/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gustavolg95/Gustavolg95/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gustavolg95/Gustavolg95/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
